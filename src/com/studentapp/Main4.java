@@ -44,6 +44,7 @@ public class Main4 {
     }
 
     private static void exit() {
+        System.out.println("***********THANK YOU***********");
         System.exit(0);
     }
 
